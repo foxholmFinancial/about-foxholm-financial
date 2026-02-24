@@ -30,7 +30,6 @@ As part of our commitment to transparency, we publish open writeups of the inves
 * [Protective Put Strategies](https://foxholm.com/guides/investment-strategies/protective-put-strategies/) - Hedging stock positions with defined-risk downside protection.
 * [The Wheel Strategy](https://foxholm.com/guides/investment-income/wheel-strategy-guide/) - Selling options on value stocks to generate premium income.
 * [Equity Income Strategies](https://foxholm.com/guides/investment-income/equity-income-strategies/) - Generating cash flow from stock holdings through dividends and covered calls.
-* [Active vs Passive Investing](https://foxholm.com/guides/investment-strategies/active-vs-passive-investing/)
 
 ***
 
