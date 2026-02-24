@@ -2,7 +2,7 @@
 
 Welcome to the public repository space for Foxholm Financial, a fee-only registered investment adviser serving Georgia tech professionals.
 
-## Technical Background
+## Technical Approach
 Foxholm Financial evaluates investment strategies by favoring evidence over intuition and systematic discipline over emotional reactions. We build in-house risk models and quantitative analysis tools using an open-source tech stack centered on Python, Node.js, and cloud data infrastructure. This systematic discipline executes rules-based strategies backed by historical data to remove emotional decision-making from investment management.
 
 ## Student Fellowships
