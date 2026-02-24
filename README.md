@@ -1,33 +1,35 @@
 # Foxholm Financial: Quantitative Strategy & Architecture
 
-Welcome to the public repository space for Foxholm Financial. We approach wealth management the way a software architect manages a critical system: with structured analysis, contingency planning, and zero tolerance for sloppy logic.
+Welcome to the public repository space for Foxholm Financial, a fee-only registered investment adviser serving Georgia tech professionals.
 
 ## Technical Background
-Drawing on over 15 years of senior fintech software leadership, this practice evaluates investment strategies by favoring evidence over intuition and systematic discipline over emotional reactions. By utilizing an open-source tech stack centered on Python, Node.js, and cloud data infrastructure, we build in-house risk models and quantitative analysis tools. This systematic discipline executes rules-based strategies backed by historical data to remove emotional decision-making from financial planning.
+Foxholm Financial evaluates investment strategies by favoring evidence over intuition and systematic discipline over emotional reactions. We build in-house risk models and quantitative analysis tools using an open-source tech stack centered on Python, Node.js, and cloud data infrastructure. This systematic discipline executes rules-based strategies backed by historical data to remove emotional decision-making from investment management.
 
 ## Student Fellowships
 Building robust quantitative infrastructure requires exceptional talent. Foxholm Financial actively partners with university programs to offer specialized [Student Fellowships](https://foxholm.com/student-fellowships/). These Georgia-based programs provide students with hands-on experience translating financial theory into production code. Fellows contribute directly to our risk modeling, cloud infrastructure, and data visualization pipelines.
 
-## A Tech-First Registered Investment Adviser
-The traditional financial services industry relies heavily on asset gathering. For example, a 0.90% Assets Under Management fee on a $200,000 initial investment could cost over $480,000 in paid fees and lost compound growth over 30 years. This model creates friction for analytical STEM professionals who prefer to maintain control of their own accounts. 
+### 2026 Fellowship Opportunities
+* **[Quantitative Investment Fellow - Summer 2026](https://foxholm.com/student-fellowships/quantitative-investment-fellow-summer-2026/):** 12-week data science fellowship bridging financial theory and Python/SQL analytics. Includes funded PCAP or AWS certification.
+* **[Quantitative Investment Fellow - Fall 2026](https://foxholm.com/student-fellowships/quantitative-investment-fellow-fall-2026/):** Fall semester track for students building portfolio analysis and data visualization skills with Tableau and Python.
+* **[Private Wealth Governance Fellow - Fall 2026](https://foxholm.com/student-fellowships/private-wealth-governance-fellow-fall-2026/):** Legal and regulatory track covering fiduciary law, compliance audits, and SEC regulations. Includes funded SIE or Series 65 exam.
 
-Foxholm Financial provides a structural alternative. Operating under a strict fiduciary standard, we are an entirely commission-free and fee-only practice located in Georgia. We generate revenue exclusively through transparent hourly consulting and predictable flat project fees rather than taking a percentage of your assets.
+## [A Tech-First Registered Investment Adviser](https://foxholm.com/about-us/)
+Foxholm Financial operates under a strict fiduciary standard as an entirely commission-free and fee-only practice located in Georgia. We generate revenue exclusively through transparent hourly consulting and predictable flat project fees rather than taking a percentage of your assets.
 
-## Core Services for Analytical Investors
-We serve self-directed DIY clients and validators who need a rigorous peer review of the math to ensure their underlying logic is sound.
+## Core Services
+We serve self-directed investors who want a rigorous peer review of their approach to ensure the underlying logic is sound.
 
-* **Strategic Portfolio Review:** Comprehensive portfolio analysis and a written Investment Policy Statement for a $900 flat fee.
-* **Focused Portfolio Review:** Professional second opinion on your current holdings with expense and allocation analysis for a $300 flat fee.
-* **Hourly Consulting:** Fiduciary guidance on specific topics billed at $300 per hour in 15-minute increments with no minimum commitment.
-* **STEM Compensation Strategies:** Navigating the specific compensation structures common in technology sectors to clarify the trade-offs between holding versus diversifying.
+* **[Strategic Portfolio Review](https://foxholm.com/services/strategic-portfolio-review/):** Comprehensive portfolio analysis and a written Investment Policy Statement.
+* **[Focused Portfolio Review](https://foxholm.com/services/focused-portfolio-review/):** Professional second opinion on your current holdings with expense and allocation analysis.
+* **[Hourly Consulting](https://foxholm.com/services/hourly-consulting/):** Fiduciary guidance on specific topics billed in 15-minute increments with no minimum commitment.
+* **[STEM Compensation Strategies](https://foxholm.com/services/):** Navigating the specific compensation structures common in technology sectors to clarify the trade-offs between holding versus diversifying.
 
-## Educational Guides & Resources
-Serving self-directed DIY clients requires prioritizing transparency over blind trust. I draw on my Master of Education in Educational Technology to structure engagements that break down the actual mechanics of your financial plan. Explaining the reasoning behind the math directly equips you with the competency to independently evaluate future strategies.
+## Investment Strategy Guides
+As part of our commitment to transparency, we publish open writeups of the investment strategies we research for our proprietary analytical systems. Each guide documents the underlying mechanics, trade-offs, and implementation requirements in plain language. Sharing this work reflects a core principle: investors benefit when the reasoning behind strategies is visible rather than hidden behind a black box.
 
-Explore our technical implementation guides and research:
-* [Executing Stock Trades](https://foxholm.com/implement/executing-stock-trades/)
-* [Writing an Investment Policy Statement](https://foxholm.com/implement/investment-policy-statement/)
-* [Tax-Loss Harvesting Mechanics](https://foxholm.com/guides/tax-planning/tax-loss-harvesting/)
+* [Protective Put Strategies](https://foxholm.com/guides/investment-strategies/protective-put-strategies/) - Hedging stock positions with defined-risk downside protection.
+* [The Wheel Strategy](https://foxholm.com/guides/investment-income/wheel-strategy-guide/) - Selling options on value stocks to generate premium income.
+* [Equity Income Strategies](https://foxholm.com/guides/investment-income/equity-income-strategies/) - Generating cash flow from stock holdings through dividends and covered calls.
 * [Active vs Passive Investing](https://foxholm.com/guides/investment-strategies/active-vs-passive-investing/)
 
 ***
